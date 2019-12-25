@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: operation
+Version: 1.0.0
+Summary: Returns smallest element from an array which is strictly monotonically decreasing, the remaining elements are strictly monotonically increasing
+Home-page: https://github.com/neetughosh/Assignment
+Author: Neetu
+Author-email: neetughosh17@gmail.com
+License: UNKNOWN
+Description: #Assignment
+        This package returns smallest element from an array
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
